@@ -1,0 +1,11 @@
+I:\두원공대\2학년\Windows Programming\Caculator\bin\Debug\Caculator.exe.config
+I:\두원공대\2학년\Windows Programming\Caculator\bin\Debug\Caculator.exe
+I:\두원공대\2학년\Windows Programming\Caculator\bin\Debug\Caculator.pdb
+I:\두원공대\2학년\Windows Programming\Caculator\obj\Debug\Caculator.csproj.AssemblyReference.cache
+I:\두원공대\2학년\Windows Programming\Caculator\obj\Debug\Caculator.csproj.SuggestedBindingRedirects.cache
+I:\두원공대\2학년\Windows Programming\Caculator\obj\Debug\Caculator.MainForm.resources
+I:\두원공대\2학년\Windows Programming\Caculator\obj\Debug\Caculator.Properties.Resources.resources
+I:\두원공대\2학년\Windows Programming\Caculator\obj\Debug\Caculator.csproj.GenerateResource.cache
+I:\두원공대\2학년\Windows Programming\Caculator\obj\Debug\Caculator.csproj.CoreCompileInputs.cache
+I:\두원공대\2학년\Windows Programming\Caculator\obj\Debug\Caculator.exe
+I:\두원공대\2학년\Windows Programming\Caculator\obj\Debug\Caculator.pdb
